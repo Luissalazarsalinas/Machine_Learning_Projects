@@ -9,4 +9,4 @@ In this project, we are going to develop an algorithm to classify automatically 
 
 * **Python libraries used:** TensorFlow, Keras, cv2
 * **Input:** Images from corn leaves
-* **Output:** Images classified
+* **Output:** Predicted classes
