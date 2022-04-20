@@ -12,4 +12,14 @@ In this project, we are going to develop an algorithm to classify automatically 
 * **Input:** Images from corn leaves
 * **Output:** Predicted classes
 
-## Malaria Project
+## Deep Learning(CNN) for Detecting Malaria from Human Cell Images
+
+In this project, we going to develop a Convolutional Neural Network model for detecting whether a cell is Parasitized or not with malaria using microscopic images.
+
+![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/Corn%20leaf%20diseases.jpg)
+##### image source: https://www.dekalbasgrowdeltapine.com/en-us/agronomy/managing-corn-diseases.html
+
+* **Python libraries used:** TensorFlow, Keras, 
+* **Model Used:** Convolutional Neural Network
+* **Input:** Images from blood cell
+* **Output:** Predicted classes
