@@ -5,7 +5,7 @@
 In this project, we are going to develop an algorithm to classify automatically images from corn leaves as healthy and unhealthy (Blights, Common Rust, and Gray Leaf Spot).
 
 ![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/Corn%20leaf%20diseases.jpg)
-##### image source: https://www.dekalbasgrowdeltapine.com/en-us/agronomy/managing-corn-diseases.html
+###### image source: https://www.dekalbasgrowdeltapine.com/en-us/agronomy/managing-corn-diseases.html
 
 * **Python libraries used:** TensorFlow, Keras, cv2
 * **Model Used:** Xception Neural Network Architecture by Treansfer Learning.
@@ -16,8 +16,8 @@ In this project, we are going to develop an algorithm to classify automatically 
 
 In this project, we going to develop a Convolutional Neural Network model for detecting whether a cell is Parasitized or not with malaria using microscopic images.
 
-![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/Corn%20leaf%20diseases.jpg)
-##### image source: https://www.dekalbasgrowdeltapine.com/en-us/agronomy/managing-corn-diseases.html
+![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/mosquito-g078ec5adf_1280.jpg)
+###### image source: 
 
 * **Python libraries used:** TensorFlow, Keras, 
 * **Model Used:** Convolutional Neural Network
