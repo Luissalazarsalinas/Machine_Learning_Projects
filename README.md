@@ -23,3 +23,5 @@ In this project, we going to develop a Convolutional Neural Network model for de
 * **Model Used:** Convolutional Neural Network
 * **Input:** Images from blood cell
 * **Output:** Predicted classes
+
+Colombia Air Quality Forecast
