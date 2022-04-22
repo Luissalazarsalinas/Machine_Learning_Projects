@@ -7,6 +7,7 @@ In this project, we are going to develop an algorithm to classify automatically 
 ![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/Corn%20leaf%20diseases.jpg)
 ###### image source: https://www.dekalbasgrowdeltapine.com/en-us/agronomy/managing-corn-diseases.html
 
+
 * **Python libraries used:** TensorFlow, Keras, cv2
 * **Model Used:** Xception Neural Network Architecture by Treansfer Learning.
 * **Input:** Images from corn leaves
@@ -17,7 +18,7 @@ In this project, we are going to develop an algorithm to classify automatically 
 In this project, we going to develop a Convolutional Neural Network model for detecting whether a cell is Parasitized or not with malaria using microscopic images.
 
 ![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/mosquito-g078ec5adf_1280.jpg)
-###### image source: 
+###### Photo by <a href="https://pixabay.com/users/artsybee-462611/">ArtsyBee</a> on <a href="https://pixabay.com/photos/search/malaria/">Pixabay</a>
 
 * **Python libraries used:** TensorFlow, Keras, 
 * **Model Used:** Convolutional Neural Network
