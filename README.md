@@ -5,8 +5,8 @@
 In this project, we are going to develop an algorithm to classify automatically images from corn leaves as healthy and unhealthy (Blights, Common Rust, and Gray Leaf Spot).
 
 ![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/Corn%20leaf%20diseases.jpg)
-###### image source: https://www.dekalbasgrowdeltapine.com/en-us/agronomy/managing-corn-diseases.html
 
+<a href = 'https://www.dekalbasgrowdeltapine.com/en-us/agronomy/managing-corn-diseases.html'> Image source</a>
 
 * **Python libraries used:** TensorFlow, Keras, cv2
 * **Model Used:** Xception Neural Network Architecture by Treansfer Learning.
