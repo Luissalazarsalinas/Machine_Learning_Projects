@@ -18,7 +18,7 @@ In this project, we are going to develop an algorithm to classify automatically 
 In this project, we going to develop a Convolutional Neural Network model for detecting whether a cell is Parasitized or not with malaria using microscopic images.
 
 ![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/mosquito-g078ec5adf_1280.jpg)
-###### Photo by <a href="https://pixabay.com/users/artsybee-462611/">ArtsyBee</a> on <a href="https://pixabay.com/photos/search/malaria/">Pixabay</a>
+Photo by <a href="https://pixabay.com/users/artsybee-462611/">ArtsyBee</a> on <a href="https://pixabay.com/photos/search/malaria/">Pixabay</a>
 
 * **Python libraries used:** TensorFlow, Keras, 
 * **Model Used:** Convolutional Neural Network
