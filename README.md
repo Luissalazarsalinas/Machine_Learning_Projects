@@ -15,14 +15,15 @@ In this project, we are going to develop an algorithm to classify automatically 
 
 ## Deep Learning(CNN) for Detecting Malaria from Human Cell Images
 
-In this project, we going to develop a Convolutional Neural Network model for detecting whether a cell is Parasitized or not with malaria using microscopic images.
 
 ![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/mosquito-g078ec5adf_1280.jpg)
 Photo by <a href="https://pixabay.com/users/artsybee-462611/">ArtsyBee</a> on <a href="https://pixabay.com/photos/search/malaria/">Pixabay</a>
 
+In this project, we going to develop a Convolutional Neural Network model for detecting whether a cell is Parasitized or not with malaria using microscopic images.
 * **Python libraries used:** TensorFlow, Keras, 
 * **Model Used:** Convolutional Neural Network
 * **Input:** Images from blood cell
 * **Output:** Predicted classes
 
 ## Colombia Air Quality Forecast
+![alt text](https://cdn.pixabay.com/photo/2015/01/25/18/24/industry-611668_960_720.jpg)
