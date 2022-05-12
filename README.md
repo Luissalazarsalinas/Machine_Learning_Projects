@@ -13,7 +13,7 @@ In this project, we are going to develop an algorithm to classify automatically 
 * **Input:** Images from corn leaves
 * **Output:** Predicted classes
 
-## Deep Learning(CNN) for Detecting Malaria from Human Cell Images
+## <a href = "https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Malaria_classification.ipynb">Deep Learning(CNN) for Detecting Malaria from Human Cell Images</a>
 
 
 ![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/mosquito-g078ec5adf_1280.jpg)
