@@ -13,7 +13,7 @@ In this project, we are going to develop an algorithm to classify automatically 
 * **Input:** Images from corn leaves
 * **Output:** Predicted classes
 
-## <a href = "https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Malaria_classification.ipynb">Deep Learning(CNN) for Detecting Malaria from Human Cell Images</a>
+## <a href = "https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Malaria_classification.ipynb"  target = "_blank">Deep Learning(CNN) for Detecting Malaria from Human Cell Images</a>
 
 
 ![alt text](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/Img/mosquito-g078ec5adf_1280.jpg)
@@ -25,7 +25,7 @@ In this project, we going to develop a Convolutional Neural Network model for de
 * **Input:** Images from blood cell
 * **Output:** Predicted classes
 
-## <a href = "https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Air_quality.ipynb">Colombia Air Quality Forecast </a>
+## <a href = "https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Air_quality.ipynb" target = "_blank">Colombia Air Quality Forecast </a>
 
 ![alt text](https://cdn.pixabay.com/photo/2015/01/25/18/24/industry-611668_960_720.jpg)
 Photo by <a href="https://pixabay.com/users/foto-rabe-715168/">Foto-rabe</a> on <a href="https://pixabay.com/photos/industry-sunrise-fog-germany-611668/">Pixabay</a>
