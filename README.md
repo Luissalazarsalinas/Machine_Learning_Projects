@@ -43,7 +43,7 @@ Photo by <a href="https://pixabay.com/users/ccfb-15300756/">ccfb</a> on <a href=
 This project analyzes data from the U.S. SBA loan database to predict whether a loan backed by the Small Business Administration (SBA) government agency will pay off in full or default.
 
 * **Python libraries used:** scikit-learn, XGBoost, hyperopt
-* **Model Used:** XGB(Gradint Boosting)
+* **Model Used:** XGB(Gradient Boosting)
 * **Input:** SBA Loans cases
 * **Output:** Predicted classes
 
