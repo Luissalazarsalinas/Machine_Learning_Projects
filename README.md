@@ -40,8 +40,8 @@ This project integrate historical Colombia air quality data (2011-2018) to forec
 ![alt text](https://cdn.pixabay.com/photo/2020/02/18/08/35/finance-4858797_960_720.jpg)
 Photo by <a href="https://pixabay.com/users/ccfb-15300756/">ccfb</a> on <a href="https://pixabay.com/photos/finance-bank-banking-business-4858797/">Pixabay</a>
 
-This project integrate historical Colombia air quality data (2011-2018) to forecast the PM2.5 concentrations levels in the country, using deep neural network models.
-* **Python libraries used:** scikit-learn, XGBoost
+This project integrate .
+* **Python libraries used:** scikit-learn, XGBoost, hyperopt
 * **Model Used:** XGB(Gradint Boosting)
 * **Input:** 
 * **Output:** Predicted classes
