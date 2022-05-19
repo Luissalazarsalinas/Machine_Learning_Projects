@@ -36,7 +36,7 @@ This project integrate historical Colombia air quality data (2011-2018) to forec
 * **Input:** Air quality time series (2011-2018)
 * **Output:** Forecast
 
-## <a href = "">Loan default prediction</a>
+## <a href = "https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Loan_Default_Prediciton.ipynb">Loan default prediction</a>
 ![alt text](https://cdn.pixabay.com/photo/2020/02/18/08/35/finance-4858797_960_720.jpg)
 Photo by <a href="https://pixabay.com/users/ccfb-15300756/">ccfb</a> on <a href="https://pixabay.com/photos/finance-bank-banking-business-4858797/">Pixabay</a>
 
