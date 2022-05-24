@@ -53,8 +53,8 @@ Photo by <a href="https://unsplash.com/@silverhousehd">André François McKenzie
 
 
 
-* **Python libraries used:** 
-* **Model Used:** 
-* **Input:** 
-* **Output:** 
+* **Python libraries used:** Yfinance, TensorFlow, Keras
+* **Model Used:**  RNN-GRU
+* **Input:** Bitcoin Price
+* **Output:**  Forecast
 
