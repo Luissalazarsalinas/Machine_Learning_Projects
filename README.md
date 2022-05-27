@@ -1,6 +1,6 @@
 # Machine Learning and Deep Learning Projects
 
-## Identification of corn leaf Diseases Using a deep convolutional neural network architecture by transfer learning
+## <a href=""> Identification of corn leaf Diseases Using a deep convolutional neural network architecture by transfer learning </a>
 
 In this project, we are going to develop an algorithm to classify automatically images from corn leaves as healthy and unhealthy (Blights, Common Rust, and Gray Leaf Spot).
 
