@@ -25,17 +25,6 @@ In this project, we going to develop a Convolutional Neural Network model for de
 * **Input:** Images from blood cell
 * **Output:** Predicted classes
 
-## <a href = "https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Air_quality.ipynb" target = "_blank">Colombia Air Quality Forecast </a>
-
-![alt text](https://cdn.pixabay.com/photo/2015/01/25/18/24/industry-611668_960_720.jpg)
-Photo by <a href="https://pixabay.com/users/foto-rabe-715168/">Foto-rabe</a> on <a href="https://pixabay.com/photos/industry-sunrise-fog-germany-611668/">Pixabay</a>
-
-This project integrate historical Colombia air quality data (2011-2018) to forecast the PM2.5 concentrations levels in the country, using deep neural network models.
-* **Python libraries used:** TensorFlow, Keras, Statsmodels 
-* **Model Used:** LSTM, GRU
-* **Input:** Air quality time series (2011-2018)
-* **Output:** Forecast
-
 ## <a href = "https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Loan_Default_Prediciton.ipynb">Loan default prediction</a>
 ![alt text](https://cdn.pixabay.com/photo/2020/02/18/08/35/finance-4858797_960_720.jpg)
 Photo by <a href="https://pixabay.com/users/ccfb-15300756/">ccfb</a> on <a href="https://pixabay.com/photos/finance-bank-banking-business-4858797/">Pixabay</a>
