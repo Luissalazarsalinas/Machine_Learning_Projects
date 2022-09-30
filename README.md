@@ -13,6 +13,12 @@ In this project, we going to develop a Convolutional Neural Network model for de
 * **Input:** Images from blood cell
 * **Output:** Predicted classes
 
+Results:
+
+
+
+[NoteBook]()
+
 
 ## <a href ="https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Cryptocurrency_Prediction.ipynb">Deep Learning for Bitcoin price prediction</a>
 ![alt text](https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869)
@@ -56,7 +62,7 @@ Results:
 ## <a href ="https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Cryptocurrency_Prediction.ipynb">Malnutrition detection in child</a>
 ![alt text]()
 
-Photo by <a href="https://unsplash.com/@silverhousehd">André François McKenzie</a> on <a href="https://unsplash.com/">Unsplash</a>
+Photo by <a href="https://unsplash.com/@haseebjkhan">Haseeb Jamil</a> on <a href="https://unsplash.com/">Unsplash</a>
 
 In this project, we developed a A\B Test to detect differences statistically significant among the Promotions, and finding which (promotion) has the greatest effect on sales.
 
