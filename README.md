@@ -39,7 +39,7 @@ Result:
 ## <a href ="https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Cryptocurrency_Prediction.ipynb">Fast Food Marketing Campaign A\B Test</a>
 ![alt text](https://images.unsplash.com/photo-1512152272829-e3139592d56f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-Photo by <a href="https://unsplash.com/@silverhousehd">André François McKenzie</a> on <a href="https://unsplash.com/">Unsplash</a>
+Photo by <a href="https://unsplash.com/@haseebjkhan">Haseeb Jamil</a> on <a href="https://unsplash.com/">Unsplash</a>
 
 In this project, we developed a A\B Test to detect differences statistically significant among the Promotions, and finding which (promotion) has the greatest effect on sales.
 
