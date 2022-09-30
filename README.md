@@ -43,7 +43,7 @@ Hypothesis:
  - Alternative Hypothesis: A least, one promotion sales' mean is different from other groups.
 
 * **Python libraries used:**  Statsmodels, Bioinfokit, Scipy
-* ** Statistical Test :**  Kruskal - Willis and Mann - Whitney 
+* **Statistical Test :**  Kruskal - Willis and Mann - Whitney 
 
 Results:
 - According to P-value(2.6741866266697816e-12 < 0.05) from the Kruskal-Wallis test, we can say that there is sufficient statistical evidence to reject the hypothesis null. Therefore, the differences among the groups are statistically significants.
