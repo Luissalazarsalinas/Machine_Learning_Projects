@@ -43,20 +43,20 @@ Photo by <a href="https://unsplash.com/@haseebjkhan">Haseeb Jamil</a> on <a href
 
 In this project, we developed a A\B Test to detect differences statistically significant among the Promotions, and finding which (promotion) has the greatest effect on sales.
 
+* **Python libraries used:**  Statsmodels, Bioinfokit, Scipy
+* **Statistical Test :**  Kruskal - Willis and Mann - Whitney 
+
 Hypothesis:
 
  - Null Hypothesis: Sales mean in the three promotions are equals (no variations between group).
  - Alternative Hypothesis: A least, one promotion sales' mean is different from other groups.
-
-* **Python libraries used:**  Statsmodels, Bioinfokit, Scipy
-* **Statistical Test :**  Kruskal - Willis and Mann - Whitney 
 
 Results:
 - According to P-value(2.6741866266697816e-12 < 0.05) from the Kruskal-Wallis test, we can say that there is sufficient statistical evidence to reject the hypothesis null. Therefore, the differences among the groups are statistically significants.
 
 - The results from the Mann-Whitney test suggest that all pairwise comparations for treatments reject the null hypothesis (p-value < 0.05) and indicates statistically significant differences. In other words, the promotions affect the sales of diffrent manners. In this sense, promotion with a higher effect was promotion 1.
 
-[NoteBook]()
+[NoteBook](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/A-B-C_test.ipynb)
 
 
 ## <a href ="https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Cryptocurrency_Prediction.ipynb">Malnutrition detection in child</a>
