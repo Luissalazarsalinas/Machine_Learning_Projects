@@ -59,12 +59,12 @@ Results:
 [NoteBook](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/A-B-C_test.ipynb)
 
 
-## <a href ="https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/Cryptocurrency_Prediction.ipynb">Malnutrition detection in child</a>
+## <a href =" ">Customer Segmentation</a>
 ![alt text]()
 
 Photo by <a href="https://unsplash.com/@haseebjkhan">Haseeb Jamil</a> on <a href="https://unsplash.com/">Unsplash</a>
 
-In this project, we developed a A\B Test to detect differences statistically significant among the Promotions, and finding which (promotion) has the greatest effect on sales.
+breaf project descriptions
 
 * **Python libraries used:** Numpy, Pandas, Scikit-learn
 * **Model Used:**  Logistic Regression
