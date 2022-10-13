@@ -59,7 +59,25 @@ Results:
 [NoteBook](https://github.com/Luissalazarsalinas/Machine_Learning_Projects/blob/master/NoteBooks/A-B-C_test.ipynb)
 
 
-## <a href =" ">Customer Segmentation</a>
+## <a href =" ">Colombia air quality Forecast</a>
+![alt text]()
+
+Photo by <a href="https://unsplash.com/@haseebjkhan">Haseeb Jamil</a> on <a href="https://unsplash.com/">Unsplash</a>
+
+breaf project descriptions
+
+* **Python libraries used:** Numpy, Pandas, Scikit-learn
+* **Model Used:**  Logistic Regression
+* **Input:** Manutrition data
+* **Output:**  Predicted classes
+Results:
+
+
+
+[NoteBook]()
+
+
+## <a href =" ">Retail Sales Forecast</a>
 ![alt text]()
 
 Photo by <a href="https://unsplash.com/@haseebjkhan">Haseeb Jamil</a> on <a href="https://unsplash.com/">Unsplash</a>
